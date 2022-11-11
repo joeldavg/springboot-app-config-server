@@ -2,6 +2,6 @@ server:
   port: 8007
 configuracion:
   text: configurando ambiente de prodoccion
-  autor:
+  author:
     name: Joel
     email: joel@mail.com
